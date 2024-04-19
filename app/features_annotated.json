@@ -1,0 +1,130 @@
+{
+  "L9/F10262": {
+    "feature_id": "L9/F10262",
+    "degree_centrality": 0.00010898291692777157,
+    "degree": 4,
+    "in_degree_centrality": 2.724572923194289e-5,
+    "out_degree_centrality": 8.173718769582868e-5,
+    "degree_centrality_rank": "15/18",
+    "degree_rank": "15/18",
+    "pagerank_rank": "1118/1145",
+    "pagerank": 1.6868580933306477e-5,
+    "trace_size": 3,
+    "tree": {
+      "name": "L9/F10262",
+      "desc": "mentions of political\nfigures & criminal activities",
+      "value": 1.0,
+      "children": [
+        {
+          "name": "L8/F4988",
+          "desc": "recommendations or descriptions\nof things to read or subscribe to",
+          "value": 1.0,
+          "children": [
+            {
+              "name": "L7/F18648",
+              "desc": "information related to news alerts,\nspecial reports, and content delivery",
+              "value": 1.0,
+              "children": [],
+              "lineStyle": { "color": "black", "width": 2.0 }
+            },
+            {
+              "name": "L7/F22487",
+              "desc": "updates in news or informational content",
+              "value": 1.0,
+              "children": [],
+              "lineStyle": { "color": "black", "width": 2.0 }
+            }
+          ],
+          "lineStyle": { "color": "black", "width": 2.0 }
+        }
+      ],
+      "lineStyle": { "color": "black", "width": 2.0 }
+    }
+  },
+  "L2/F1046": {
+    "feature_id": "L2/F1046",
+    "degree_centrality": 5.449145846388578e-5,
+    "degree": 2,
+    "in_degree_centrality": 5.449145846388578e-5,
+    "out_degree_centrality": 0.0,
+    "degree_centrality_rank": "17/18",
+    "degree_rank": "17/18",
+    "pagerank_rank": "1127/1145",
+    "pagerank": 1.535540707139107e-5,
+    "trace_size": 5,
+    "n_unique_features": 4,
+    "tree": {
+      "name": "L2/F1046",
+      "desc": "proper nouns related to\nlegal & criminal proceedings",
+      "value": 1.0,
+      "children": [
+        {
+          "name": "L1/F20733",
+          "desc": "the name \"Milo\" or \"Milo Yiannopoulos\"",
+          "value": 1.0,
+          "children": [
+            {
+              "name": "L0/F5501",
+              "desc": "proper nouns (specific names)\nrelated to a person named Morrison",
+              "value": 1.0,
+              "children": [],
+              "lineStyle": { "color": "black", "width": 2.0 }
+            }
+          ],
+          "lineStyle": { "color": "black", "width": 2.0 }
+        },
+        {
+          "name": "L1/F23415",
+          "desc": "phrases related to prices, e.g. |Pr|ices",
+          "value": 1.0,
+          "children": [
+            {
+              "name": "L0/F5501",
+              "desc": "proper nouns (specific names)\nrelatedto a person named Morrison",
+              "value": 1.0,
+              "children": [],
+              "lineStyle": { "color": "black", "width": 2.0 }
+            }
+          ],
+          "lineStyle": { "color": "black", "width": 2.0 }
+        }
+      ],
+      "lineStyle": { "color": "black", "width": 2.0 }
+    }
+  },
+  "L1/F3210": {
+    "feature_id": "L1/F3210",
+    "degree_centrality": 8.173718769582868e-5,
+    "degree": 3,
+    "in_degree_centrality": 5.449145846388578e-5,
+    "out_degree_centrality": 2.724572923194289e-5,
+    "degree_centrality_rank": "16/18",
+    "degree_rank": "16/18",
+    "pagerank_rank": "1114/1145",
+    "pagerank": 1.769604009122687e-5,
+    "trace_size": 3,
+    "n_unique_features": 3,
+    "tree": {
+      "name": "L1/F3210",
+      "desc": "references to powerful and influential\nindividuals, such as moguls or gurus",
+      "value": 1.0,
+      "children": [
+        {
+          "name": "L0/F13567",
+          "desc": "mentions of wealthy and influential individuals",
+          "value": 1.0,
+          "children": [],
+          "lineStyle": { "color": "black", "width": 2.0 }
+        },
+        {
+          "name": "L0/F16928",
+          "desc": "mentions of individuals as standout\nleaders or favorites in competitive races",
+          "value": 1.0,
+          "children": [],
+          "lineStyle": { "color": "black", "width": 2.0 }
+        }
+      ],
+      "lineStyle": { "color": "black", "width": 2.0 }
+    }
+  }
+}

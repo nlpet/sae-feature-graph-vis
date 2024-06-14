@@ -10,7 +10,7 @@ const font = PT_Sans({
 });
 
 export const metadata = {
-  title: "Big Feature Graph",
+  title: "SAE Feature Graph Vis",
   description: "Hackathon project for visualising features in an SAE",
 };
 

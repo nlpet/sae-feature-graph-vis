@@ -10,7 +10,7 @@ const Header = () => {
             <Link href="/" className="ml-4 lg:ml-0">
               <h1 className="text-2xl font-bold flex">
                 InterpVis (2024):
-                <span className="font-normal ml-3">Big Feature Graph </span>
+                <span className="font-normal ml-3">SAE Feature Graph Vis </span>
               </h1>
             </Link>
           </div>
